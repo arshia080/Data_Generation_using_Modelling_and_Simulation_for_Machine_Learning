@@ -89,7 +89,7 @@ the most suitable predictive model for traffic waiting time was successfully ide
 - `README.md` – Documentation  
 
 
-## ▶️ How to Execute
+## How to Execute
 
 1. Open the notebook in **Google Colab**
 2. Install required libraries
