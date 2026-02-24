@@ -1,1 +1,1 @@
-# Data-_Generation_using_Modelling-and-Simulation_for-_Machin_-Learning
+# Data_Generation_using_Modelling_and_Simulation_for_Machin_Learning
