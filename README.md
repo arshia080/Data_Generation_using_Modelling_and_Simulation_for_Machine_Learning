@@ -11,13 +11,13 @@ This project focuses on generating synthetic traffic data using simulation techn
 
 ## Project Workflow
 
-## Tool Setup
+### 1.Tool Setup
 SimPy was chosen for its simplicity and seamless integration with Python for simulation-based data generation.
 
-### Installation
+### 2.Installation
 All required libraries were installed in Google Colab using `pip`, followed by small test simulations to understand system behavior.
 
-###  Parameter Configuration
+### 3.Parameter Configuration
 
 | Parameter | Min | Max |
 |------------|-----|-----|
@@ -29,7 +29,7 @@ All required libraries were installed in Google Colab using `pip`, followed by s
 
 Random values within these ranges were generated using **NumPy** for each simulation run.
 
-### Data Generation
+### 4.Data Generation
 - Conducted **1000 simulation runs**
 - Stored results in `simulation_data.csv`
 
